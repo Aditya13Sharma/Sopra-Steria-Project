@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sopra-Steria-Project/static/css/main.a6a778ff.css",
+    "main.js": "/Sopra-Steria-Project/static/js/main.4f896d26.js",
+    "index.html": "/Sopra-Steria-Project/index.html",
+    "main.a6a778ff.css.map": "/Sopra-Steria-Project/static/css/main.a6a778ff.css.map",
+    "main.4f896d26.js.map": "/Sopra-Steria-Project/static/js/main.4f896d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a778ff.css",
+    "static/js/main.4f896d26.js"
+  ]
+}
